@@ -3,10 +3,13 @@ From the [Skillfactory Data Science course](http://skillfactory.ru/data-scientis
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/VicS-Hub2023/DS_Solution/blob/main/game.py)
-* [Проект 1. _______________](____)
+* [Проект 0. Игра: Угадай число](https://github.com/VicS-Hub2023/DS_Solution/blob/main)
+* [Проект 1. _______________](_vvvv___)
 * [Проект 2. _______________](____)
 
-## Ссылка на резюме
+## Ссылка на резюме_vvvvv
+
+
+
 
 
