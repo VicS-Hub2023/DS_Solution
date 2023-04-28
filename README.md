@@ -49,7 +49,7 @@ From the [Skillfactory Data Science course](http://skillfactory.ru/data-scientis
 
 
 ### Результат:  
-Реализован бинарный поиск (функция random_predict_binary), который позволяет в среднем угадывать число в интервале от 1 до 100 за 8 попыток.
+Реализован бинарный поиск (функция  game_core_v3), который позволяет в среднем угадывать число в интервале от 1 до 100 за 8 попыток.
 
 :arrow_up:[к оглавлению](https://github.com/VicS-Hub2023/DS_Solution/blob/main/README.md#Оглавление)
 
