@@ -6,12 +6,12 @@ From the [Skillfactory Data Science course](http://skillfactory.ru/data-scientis
 [Проект 0. Игра: Угадай число](https://github.com/VicS-Hub2023/DS_Solution/blob/main/game_v3.py)
 
 ## Оглавление  
-[1. Описание проекта](.README.md#Описание-проекта)  
-[2. Какой кейс решаем?](.README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](.README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](.README.md#Этапы-работы-над-проектом)  
-[5. Результат](.README.md#Результат)    
-[6. Выводы](.README.md#Выводы) 
+[1. Описание проекта](https://github.com/VicS-Hub2023/DS_Solution/blob/main/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/VicS-Hub2023/DS_Solution/blob/main/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/VicS-Hub2023/DS_Solution/blob/main/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/VicS-Hub2023/DS_Solution/blob/main/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/VicS-Hub2023/DS_Solution/blob/main/README.md#Результат)    
+[6. Выводы](https://github.com/VicS-Hub2023/DS_Solution/blob/main/README.md#Выводы) 
 
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
