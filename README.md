@@ -3,7 +3,7 @@ From the [Skillfactory Data Science course](http://skillfactory.ru/data-scientis
 
 ## Проекты
 
-* Проект 0. Угадай число (https://github.com/VicS-Hub2023/DS_Solution/blob/main/game_v3.py)
+[Проект 0. Игра: Угадай число](https://github.com/VicS-Hub2023/DS_Solution/blob/main/game_v3.py)
 
 ## Оглавление  
 [1. Описание проекта](.README.md#Описание-проекта)  
