@@ -7,6 +7,6 @@ From the [Skillfactory Data Science course](http://skillfactory.ru/data-scientis
 * [Проект 1. _______________](____)
 * [Проект 2. _______________](____)
 
-## Ссылка на резюме
+## Ссылка на резюмеnnnnnnn
 
 
