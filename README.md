@@ -48,7 +48,7 @@ From the [Skillfactory Data Science course](http://skillfactory.ru/data-scientis
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
 
-### Результаты:  
+### Результат:  
 Реализован бинарный поиск (функция random_predict_binary), который позволяет в среднем угадывать число в интервале от 1 до 100 за 8 попыток.
 
 :arrow_up:[к оглавлению](.README.md#Оглавление)
