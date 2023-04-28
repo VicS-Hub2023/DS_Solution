@@ -16,7 +16,7 @@ From the [Skillfactory Data Science course](http://skillfactory.ru/data-scientis
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_https://github.com/VicS-Hub2023/DS_Solution/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/VicS-Hub2023/DS_Solution/blob/main/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
