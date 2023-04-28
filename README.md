@@ -1,9 +1,7 @@
 # My data science projects
 From the [Skillfactory Data Science course](http://skillfactory.ru/data-scientist)
 
-## Проекты
-
-[Проект 0. Игра угадай число](https://github.com/VicS-Hub2023/DS_Solution/blob/main/game_v3.py)
+## Проек 0. Игра угадай число
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/VicS-Hub2023/DS_Solution/blob/main/README.md#Описание-проекта)  
